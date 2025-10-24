@@ -64,17 +64,8 @@ print(str(response))
 ```
 
 ### OUTPUT:
-Added user message to memory: what is The need for formal specifications of morally relevant information?
-=== Calling Function ===
-Calling function: vector_tool_formalspecific with args: {"query": "The need for formal specifications of morally relevant information"}
-=== Function Output ===
-The need for formal specifications of morally relevant information arises from the limitations of informal specifications in enabling automated moral reasoning and algorithmic decision-making. Formal specifications are essential to go beyond simply comparing choices based on values and to provide a theory explaining why one option is morally superior. They help in resolving conflicts by introducing more structure, such as argumentation theory, and are crucial for justifying the morality of an option in morally conflicting situations. Additionally, formal specifications clarify the semantics and distinctions between values, factors, principles, norms, moral judgments, and moral decisions, aiding in disciplinary clarity and facilitating comparison with related work in fields like machine ethics and AI alignment.
-=== Calling Function ===
-Calling function: summary_tool_formalspecific with args: {"input": "The need for formal specifications of morally relevant information arises from the limitations of informal specifications in enabling automated moral reasoning and algorithmic decision-making. Formal specifications are essential to go beyond simply comparing choices based on values and to provide a theory explaining why one option is morally superior. They help in resolving conflicts by introducing more structure, such as argumentation theory, and are crucial for justifying the morality of an option in morally conflicting situations. Additionally, formal specifications clarify the semantics and distinctions between values, factors, principles, norms, moral judgments, and moral decisions, aiding in disciplinary clarity and facilitating comparison with related work in fields like machine ethics and AI alignment."}
-=== Function Output ===
-Formal specifications of morally relevant information are crucial for enabling automated moral reasoning and algorithmic decision-making. They provide a structured framework that surpasses simple value-based comparisons, aiding in resolving conflicts, justifying moral superiority, and clarifying the distinctions between various moral aspects. This clarity enhances disciplinary understanding and allows for comparisons with related work in fields such as machine ethics and AI alignment.
-=== LLM Response ===
-The need for formal specifications of morally relevant information is essential for enabling automated moral reasoning and algorithmic decision-making. Formal specifications provide a structured framework that goes beyond simple value-based comparisons, aiding in resolving conflicts, justifying moral superiority, and clarifying the distinctions between various moral aspects. This clarity enhances disciplinary understanding and allows for comparisons with related work in fields such as machine ethics and AI alignment.
+<img width="1228" height="716" alt="image" src="https://github.com/user-attachments/assets/0cac45f1-b338-44cb-a73a-54fb17e917ea" />
+
 
 ### RESULT:
 A multidocument retrieval agent was successfully designed and implemented using LlamaIndex. The system was able to extract and synthesize information from multiple research articles and responded effectively to diverse queries. It demonstrated the ability to deliver concise, relevant, and accurate responses, validating its performance and usefulness for multi-document analysis tasks.
